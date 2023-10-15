@@ -19,14 +19,14 @@ nav {
 
 nav a {
     color: #000000;
-    padding: 14px 20px;
+    padding: 15px 20px;
     text-decoration: none;
     text-align: center;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #800000; /* Color of the text when hovered over */
+    color: #000000; /* Color of the text when hovered over */
     background-color: #acdee3; /* Background color when hovered over */
     text-decoration: underline; /* Underline text when hovered over (optional) */
 }
