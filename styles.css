@@ -45,8 +45,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+  width: 600;
+  height: 400;
 }
 
 div.desc {
@@ -55,8 +55,3 @@ div.desc {
 }
 
 
-
-img {
-	width: 600;
-	height: 400;
-}
